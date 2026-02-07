@@ -3,6 +3,9 @@
 <p align="center">
   <img src="assets/logo.png" width="300">
 </p>
+<p align="center">
+  <img src="assets/app.png" width="1046">
+</p>
 
 O **Cinetopia** é um aplicativo mobile desenvolvido em Flutter para entusiastas do cinema. Ele permite explorar filmes populares, pesquisar títulos específicos e acompanhar os próximos lançamentos, tudo através de uma interface moderna e intuitiva integrada a uma API de filmes.
 
@@ -71,4 +74,5 @@ A organização das pastas reflete a separação de responsabilidades:
 5. Execute o projeto:
 6. ```bash
    flutter run
+
 
